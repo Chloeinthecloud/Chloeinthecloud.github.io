@@ -5,3 +5,4 @@
 4. Choropleth Maps - World & US
 5. Linear Regression
 6. Logistic 
+7. forecast - Three methods of Chronological Forecasting
