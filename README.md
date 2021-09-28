@@ -3,3 +3,5 @@
 2. Batch visualization of e-commerce conversion rate
 3. Predictive Modeling
 4. Choropleth Maps - World & US
+5. Linear Regression
+6. Logistic 
