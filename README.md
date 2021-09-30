@@ -7,3 +7,4 @@
 6. Logistic 
 7. forecast - Three methods of Chronological Forecasting
 8. K Nearest Neighbors Project
+9. Random Forest Project
