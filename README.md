@@ -8,3 +8,5 @@
 7. forecast - Three methods of Chronological Forecasting
 8. K Nearest Neighbors Project
 9. Random Forest Project
+10. SVM Project
+11. K Means Clustering Project
