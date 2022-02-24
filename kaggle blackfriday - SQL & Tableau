@@ -1,8 +1,0 @@
-select count(*) from ch6.blackfriday;
-select count(distinct user_id) from ch6.blackfriday;
-select count(distinct product_id) from ch6.blackfriday;
-select count(distinct age) from ch6.blackfriday;
-select distinct occupation from ch6.blackfriday order by occupation;
-select distinct occupation from ch6.blackfriday order by occupation;
-select distinct(product_category_1) from ch6.blackfriday order by product_category_1;
-# 
